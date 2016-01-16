@@ -1,0 +1,8329 @@
+Blocks {
+  Lines {
+    Confidence: 0.97966826
+    LineBox {
+      X: 1980
+      Y: 3368
+      Width: 146
+      Height: 25
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 64
+      Y: 856
+      Width: 371
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.6248799
+          Recognition: "О&"
+          Bbox {
+            X: 295
+            Y: 870
+            Width: 31
+            Height: 21
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.53598589
+          Recognition: "Р"
+          Bbox {
+            X: 341
+            Y: 867
+            Width: 7
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91821057
+          Recognition: "Строгино"
+          Bbox {
+            X: 145
+            Y: 867
+            Width: 159
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.92785513
+    LineBox {
+      X: 521
+      Y: 3268
+      Width: 117
+      Height: 24
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64818758
+          Recognition: "611"
+          Bbox {
+            X: 573
+            Y: 3270
+            Width: 31
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999237
+    LineBox {
+      X: 2720
+      Y: 2822
+      Width: 286
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68884313
+          Recognition: "ОР"
+          Bbox {
+            X: 2902
+            Y: 2831
+            Width: 33
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.5925625
+          Recognition: "выыхино"
+          Bbox {
+            X: 2785
+            Y: 2833
+            Width: 127
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99994636
+    LineBox {
+      X: 1502
+      Y: 3468
+      Width: 288
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "о"
+          Bbox {
+            X: 1686
+            Y: 3479
+            Width: 11
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.53527755
+          Recognition: "Р"
+          Bbox {
+            X: 1711
+            Y: 3479
+            Width: 8
+            Height: 23
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.78475034
+          Recognition: "АННИНО"
+          Bbox {
+            X: 1568
+            Y: 3479
+            Width: 128
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999785
+    LineBox {
+      X: 97
+      Y: 505
+      Width: 248
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.55954486
+          Recognition: "шшоссе"
+          Bbox {
+            X: 147
+            Y: 507
+            Width: 102
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999261
+    LineBox {
+      X: 25
+      Y: 2010
+      Width: 521
+      Height: 59
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.58014226
+          Recognition: "ар&"
+          Bbox {
+            X: 213
+            Y: 2028
+            Width: 56
+            Height: 17
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.51684868
+          Recognition: "Р"
+          Bbox {
+            X: 285
+            Y: 2024
+            Width: 6
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "бульвар"
+          Bbox {
+            X: 111
+            Y: 2024
+            Width: 133
+            Height: 33
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98569292
+          Recognition: "Победы"
+          Bbox {
+            X: 328
+            Y: 2024
+            Width: 122
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999595
+    LineBox {
+      X: 268
+      Y: 2259
+      Width: 239
+      Height: 36
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.84759194
+          Recognition: "проспект"
+          Bbox {
+            X: 324
+            Y: 2262
+            Width: 125
+            Height: 27
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99889666
+    LineBox {
+      X: 816
+      Y: 370
+      Width: 271
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65795922
+          Recognition: "Ховрино"
+          Bbox {
+            X: 904
+            Y: 378
+            Width: 114
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99975419
+    LineBox {
+      X: 598
+      Y: 3113
+      Width: 281
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.687013
+          Recognition: "Саларьево"
+          Bbox {
+            X: 675
+            Y: 3120
+            Width: 140
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99996662
+    LineBox {
+      X: 1948
+      Y: 2746
+      Width: 277
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.66163832
+          Recognition: "Технопарк"
+          Bbox {
+            X: 2013
+            Y: 2755
+            Width: 143
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999373
+    LineBox {
+      X: 594
+      Y: 3020
+      Width: 299
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63428617
+          Recognition: "румянцево"
+          Bbox {
+            X: 674
+            Y: 3024
+            Width: 150
+            Height: 31
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.97850305
+    LineBox {
+      X: 1161
+      Y: 1818
+      Width: 346
+      Height: 56
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.94893056
+          Recognition: "Арбатская"
+          Bbox {
+            X: 1245
+            Y: 1830
+            Width: 175
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99995732
+    LineBox {
+      X: 1961
+      Y: 2522
+      Width: 269
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.58565819
+          Recognition: "*-азэроэкспресс"
+          Bbox {
+            X: 2011
+            Y: 2525
+            Width: 168
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99821454
+    LineBox {
+      X: 644
+      Y: 2028
+      Width: 209
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.6055038
+          Recognition: "во"
+          Bbox {
+            X: 689
+            Y: 2034
+            Width: 18
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64044863
+          Recognition: "Внуково"
+          Bbox {
+            X: 721
+            Y: 2034
+            Width: 84
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.50295293
+    LineBox {
+      X: 498
+      Y: 179
+      Width: 97
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65576816
+          Recognition: "Е"
+          Bbox {
+            X: 544
+            Y: 182
+            Width: 6
+            Height: 21
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.50875187
+          Recognition: "Е"
+          Bbox {
+            X: 563
+            Y: 182
+            Width: 4
+            Height: 21
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999428
+    LineBox {
+      X: 2696
+      Y: 3019
+      Width: 373
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "О"
+          Bbox {
+            X: 2947
+            Y: 3033
+            Width: 10
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.74672657
+          Recognition: "Жулебино"
+          Bbox {
+            X: 2784
+            Y: 3033
+            Width: 169
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.98935044
+    LineBox {
+      X: 572
+      Y: 1774
+      Width: 251
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65528882
+          Recognition: "центр"
+          Bbox {
+            X: 637
+            Y: 1777
+            Width: 97
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99970818
+    LineBox {
+      X: 80
+      Y: 586
+      Width: 288
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.5890075
+          Recognition: "о*"
+          Bbox {
+            X: 269
+            Y: 600
+            Width: 30
+            Height: 21
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95096588
+          Recognition: "Митино"
+          Bbox {
+            X: 149
+            Y: 597
+            Width: 130
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2334
+      Y: 3182
+      Width: 344
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89758092
+          Recognition: "Борисово"
+          Bbox {
+            X: 2413
+            Y: 3192
+            Width: 160
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99124438
+    LineBox {
+      X: 1806
+      Y: 1744
+      Width: 387
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88973135
+          Recognition: "китай-город"
+          Bbox {
+            X: 1887
+            Y: 1755
+            Width: 221
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99713433
+    LineBox {
+      X: 2120
+      Y: 1731
+      Width: 323
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87917054
+          Recognition: "Чкаловская"
+          Bbox {
+            X: 2181
+            Y: 1739
+            Width: 195
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1607
+      Y: 1942
+      Width: 410
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63155812
+          Recognition: "Пл."
+          Bbox {
+            X: 1680
+            Y: 1952
+            Width: 45
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Революции"
+          Bbox {
+            X: 1745
+            Y: 1951
+            Width: 194
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998879
+    LineBox {
+      X: 2378
+      Y: 1854
+      Width: 271
+      Height: 42
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.940934
+          Recognition: "Римская"
+          Bbox {
+            X: 2441
+            Y: 1854
+            Width: 138
+            Height: 42
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.24161971
+    LineBox {
+      X: 172
+      Y: 2357
+      Width: 73
+      Height: 7
+    }
+  }
+  Lines {
+    Confidence: 0.99913675
+    LineBox {
+      X: 200
+      Y: 2337
+      Width: 213
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63433164
+          Recognition: "раменки"
+          Bbox {
+            X: 247
+            Y: 2344
+            Width: 114
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.97058731
+    LineBox {
+      X: 172
+      Y: 2573
+      Width: 184
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.6326583
+          Recognition: "филевская"
+          Bbox {
+            X: 210
+            Y: 2575
+            Width: 105
+            Height: 18
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999738
+    LineBox {
+      X: 170
+      Y: 2616
+      Width: 187
+      Height: 28
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65244848
+          Recognition: "кольцевая"
+          Bbox {
+            X: 211
+            Y: 2620
+            Width: 102
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.999928
+    LineBox {
+      X: 4
+      Y: 1975
+      Width: 542
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.8265962
+          Recognition: "славянский"
+          Bbox {
+            X: 90
+            Y: 1982
+            Width: 200
+            Height: 31
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Парк"
+          Bbox {
+            X: 380
+            Y: 1988
+            Width: 76
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99858642
+    LineBox {
+      X: 365
+      Y: 2139
+      Width: 216
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.631753
+          Recognition: "минская"
+          Bbox {
+            X: 416
+            Y: 2141
+            Width: 113
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99995232
+    LineBox {
+      X: 174
+      Y: 2703
+      Width: 158
+      Height: 24
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62635654
+          Recognition: "таганско"
+          Bbox {
+            X: 208
+            Y: 2708
+            Width: 86
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998355
+    LineBox {
+      X: 176
+      Y: 2773
+      Width: 203
+      Height: 24
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62726521
+          Recognition: "калининская"
+          Bbox {
+            X: 211
+            Y: 2774
+            Width: 129
+            Height: 18
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999905
+    LineBox {
+      X: 140
+      Y: 3596
+      Width: 201
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.69842523
+          Recognition: "Вокзалы"
+          Bbox {
+            X: 212
+            Y: 3603
+            Width: 82
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 96
+      Y: 3555
+      Width: 275
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.51195097
+          Recognition: "($уо*)"
+          Bbox {
+            X: 142
+            Y: 3560
+            Width: 53
+            Height: 12
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62805057
+          Recognition: "Аэропорты"
+          Bbox {
+            X: 210
+            Y: 3557
+            Width: 113
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99990249
+    LineBox {
+      X: 114
+      Y: 3508
+      Width: 230
+      Height: 39
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.71314216
+          Recognition: "Кремль"
+          Bbox {
+            X: 211
+            Y: 3515
+            Width: 73
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999907
+    LineBox {
+      X: 166
+      Y: 3387
+      Width: 177
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61926979
+          Recognition: "Станции"
+          Bbox {
+            X: 210
+            Y: 3390
+            Width: 82
+            Height: 18
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999881
+    LineBox {
+      X: 166
+      Y: 3640
+      Width: 243
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61625642
+          Recognition: "аэроэкспрессыы"
+          Bbox {
+            X: 210
+            Y: 3645
+            Width: 153
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 170
+      Y: 3756
+      Width: 231
+      Height: 26
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62933218
+          Recognition: "до"
+          Bbox {
+            X: 211
+            Y: 3758
+            Width: 19
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62070537
+          Recognition: "аэропортов"
+          Bbox {
+            X: 242
+            Y: 3758
+            Width: 117
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999905
+    LineBox {
+      X: 174
+      Y: 3280
+      Width: 182
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.6407994
+          Recognition: "пересадки"
+          Bbox {
+            X: 212
+            Y: 3281
+            Width: 103
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 159
+      Y: 3119
+      Width: 224
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68786979
+          Recognition: "(монорельс)"
+          Bbox {
+            X: 209
+            Y: 3126
+            Width: 123
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 166
+      Y: 3017
+      Width: 191
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65650403
+          Recognition: "Бутовская"
+          Bbox {
+            X: 211
+            Y: 3019
+            Width: 97
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998713
+    LineBox {
+      X: 678
+      Y: 2146
+      Width: 415
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Парк"
+          Bbox {
+            X: 756
+            Y: 2146
+            Width: 78
+            Height: 52
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.85996419
+          Recognition: "культуры)"
+          Bbox {
+            X: 855
+            Y: 2155
+            Width: 180
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999905
+    LineBox {
+      X: 472
+      Y: 3290
+      Width: 355
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93931413
+          Recognition: "Аэропорт"
+          Bbox {
+            X: 577
+            Y: 3299
+            Width: 164
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99973059
+    LineBox {
+      X: 534
+      Y: 3375
+      Width: 153
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.56766242
+          Recognition: "(уко*)"
+          Bbox {
+            X: 573
+            Y: 3380
+            Width: 80
+            Height: 17
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99997711
+    LineBox {
+      X: 503
+      Y: 3326
+      Width: 293
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65314484
+          Recognition: "Внуково"
+          Bbox {
+            X: 581
+            Y: 3335
+            Width: 134
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.98897827
+    LineBox {
+      X: 586
+      Y: 2487
+      Width: 473
+      Height: 60
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.66526115
+          Recognition: "Воробьевыы"
+          Bbox {
+            X: 676
+            Y: 2500
+            Width: 192
+            Height: 25
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88398725
+          Recognition: "горы"
+          Bbox {
+            X: 889
+            Y: 2500
+            Width: 79
+            Height: 34
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999857
+    LineBox {
+      X: 636
+      Y: 2388
+      Width: 365
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91047335
+          Recognition: "спортивная"
+          Bbox {
+            X: 714
+            Y: 2397
+            Width: 204
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.999974
+    LineBox {
+      X: 894
+      Y: 2359
+      Width: 393
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96190906
+          Recognition: "Октябрьская)"
+          Bbox {
+            X: 980
+            Y: 2372
+            Width: 233
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99991941
+    LineBox {
+      X: 592
+      Y: 2922
+      Width: 355
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.66784942
+          Recognition: "О&"
+          Bbox {
+            X: 852
+            Y: 2932
+            Width: 34
+            Height: 25
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68638992
+          Recognition: "Тропарево"
+          Bbox {
+            X: 673
+            Y: 2931
+            Width: 187
+            Height: 33
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.56095231
+          Recognition: "0"
+          Bbox {
+            X: 811
+            Y: 2923
+            Width: 1
+            Height: 7
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.75449961
+    LineBox {
+      X: 630
+      Y: 3043
+      Width: 41
+      Height: 7
+    }
+  }
+  Lines {
+    Confidence: 0.71260697
+    LineBox {
+      X: 630
+      Y: 3121
+      Width: 41
+      Height: 7
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 563
+      Y: 3565
+      Width: 339
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89157283
+          Recognition: "бунинская"
+          Bbox {
+            X: 642
+            Y: 3574
+            Width: 176
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998331
+    LineBox {
+      X: 590
+      Y: 3607
+      Width: 217
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.58798003
+          Recognition: "аллллея"
+          Bbox {
+            X: 642
+            Y: 3609
+            Width: 94
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99995041
+    LineBox {
+      X: 670
+      Y: 3694
+      Width: 499
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90878373
+          Recognition: "Улица"
+          Bbox {
+            X: 753
+            Y: 3705
+            Width: 98
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.951714
+          Recognition: "бульвар"
+          Bbox {
+            X: 953
+            Y: 3705
+            Width: 130
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99418759
+    LineBox {
+      X: 1315
+      Y: 3696
+      Width: 213
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91822326
+          Recognition: "Улица"
+          Bbox {
+            X: 1372
+            Y: 3705
+            Width: 98
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1012
+      Y: 3583
+      Width: 801
+      Height: 63
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96447384
+          Recognition: "Старокачаловская"
+          Bbox {
+            X: 1106
+            Y: 3593
+            Width: 320
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.54996568
+          Recognition: "О"
+          Bbox {
+            X: 1519
+            Y: 3593
+            Width: 18
+            Height: 38
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.80346793
+          Recognition: "дмитрия"
+          Bbox {
+            X: 1569
+            Y: 3593
+            Width: 149
+            Height: 38
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99954957
+    LineBox {
+      X: 1496
+      Y: 3549
+      Width: 273
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96229583
+          Recognition: "бульвар"
+          Bbox {
+            X: 1568
+            Y: 3558
+            Width: 127
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99994969
+    LineBox {
+      X: 1503
+      Y: 3392
+      Width: 245
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.85985935
+          Recognition: "янгеля"
+          Bbox {
+            X: 1568
+            Y: 3403
+            Width: 112
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.999995
+    LineBox {
+      X: 1490
+      Y: 3354
+      Width: 467
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89034015
+          Recognition: "Улица"
+          Bbox {
+            X: 1568
+            Y: 3365
+            Width: 98
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92235392
+          Recognition: "Академика"
+          Bbox {
+            X: 1686
+            Y: 3365
+            Width: 190
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999881
+    LineBox {
+      X: 1496
+      Y: 3281
+      Width: 318
+      Height: 50
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93942136
+          Recognition: "Пражская"
+          Bbox {
+            X: 1570
+            Y: 3289
+            Width: 163
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99990773
+    LineBox {
+      X: 1508
+      Y: 3205
+      Width: 243
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95839024
+          Recognition: "Южная"
+          Bbox {
+            X: 1571
+            Y: 3214
+            Width: 115
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1486
+      Y: 3128
+      Width: 408
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92070925
+          Recognition: "Чертановская"
+          Bbox {
+            X: 1567
+            Y: 3138
+            Width: 240
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.68438411
+    LineBox {
+      X: 2329
+      Y: 3680
+      Width: 113
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59226561
+          Recognition: "308"
+          Bbox {
+            X: 2378
+            Y: 3683
+            Width: 31
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999826
+    LineBox {
+      X: 2280
+      Y: 3698
+      Width: 591
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91184837
+          Recognition: "Аэропорт"
+          Bbox {
+            X: 2381
+            Y: 3707
+            Width: 165
+            Height: 25
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.66711897
+          Recognition: "домодедово"
+          Bbox {
+            X: 2566
+            Y: 3708
+            Width: 219
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99995852
+    LineBox {
+      X: 2324
+      Y: 3751
+      Width: 177
+      Height: 30
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 2164
+      Y: 3488
+      Width: 852
+      Height: 56
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "я"
+          Bbox {
+            X: 2586
+            Y: 3497
+            Width: 8
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.50932854
+          Recognition: "Р"
+          Bbox {
+            X: 2610
+            Y: 3497
+            Width: 8
+            Height: 23
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87081039
+          Recognition: "алма-атинская"
+          Bbox {
+            X: 2665
+            Y: 3492
+            Width: 265
+            Height: 31
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.933824
+          Recognition: "красногвардейская"
+          Bbox {
+            X: 2247
+            Y: 3500
+            Width: 349
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99921912
+    LineBox {
+      X: 2338
+      Y: 2877
+      Width: 307
+      Height: 48
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9319737
+          Recognition: "Люблино"
+          Bbox {
+            X: 2411
+            Y: 2889
+            Width: 157
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999969
+    LineBox {
+      X: 2334
+      Y: 3082
+      Width: 311
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.8596307
+          Recognition: "Марьино"
+          Bbox {
+            X: 2413
+            Y: 3091
+            Width: 149
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998665
+    LineBox {
+      X: 2351
+      Y: 2781
+      Width: 288
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.887052
+          Recognition: "волжская"
+          Bbox {
+            X: 2413
+            Y: 2788
+            Width: 161
+            Height: 26
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999795
+    LineBox {
+      X: 2392
+      Y: 2580
+      Width: 381
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.94271427
+          Recognition: "кожуховская"
+          Bbox {
+            X: 2470
+            Y: 2588
+            Width: 221
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2714
+      Y: 2946
+      Width: 321
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88551104
+          Recognition: "проспект"
+          Bbox {
+            X: 2786
+            Y: 2951
+            Width: 160
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2714
+      Y: 2746
+      Width: 303
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89579272
+          Recognition: "проспект"
+          Bbox {
+            X: 2786
+            Y: 2750
+            Width: 157
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99952549
+    LineBox {
+      X: 2720
+      Y: 2702
+      Width: 311
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95006424
+          Recognition: "Рязанский"
+          Bbox {
+            X: 2784
+            Y: 2713
+            Width: 176
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2714
+      Y: 2468
+      Width: 303
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.876119
+          Recognition: "проспект"
+          Bbox {
+            X: 2786
+            Y: 2473
+            Width: 157
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99942118
+    LineBox {
+      X: 2726
+      Y: 1709
+      Width: 225
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62177396
+          Recognition: "шшоссе"
+          Bbox {
+            X: 2786
+            Y: 1711
+            Width: 101
+            Height: 29
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 2704
+      Y: 1744
+      Width: 382
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90257472
+          Recognition: "Энтузиастов"
+          Bbox {
+            X: 2784
+            Y: 1755
+            Width: 217
+            Height: 22
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999332
+    LineBox {
+      X: 72
+      Y: 462
+      Width: 337
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9408071
+          Recognition: "Пятницкое"
+          Bbox {
+            X: 147
+            Y: 472
+            Width: 184
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999475
+    LineBox {
+      X: 84
+      Y: 771
+      Width: 305
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89377409
+          Recognition: "Мякинино"
+          Bbox {
+            X: 148
+            Y: 779
+            Width: 176
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99995613
+    LineBox {
+      X: 57
+      Y: 1025
+      Width: 788
+      Height: 60
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90906346
+          Recognition: "Молодежная"
+          Bbox {
+            X: 147
+            Y: 1042
+            Width: 222
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Октябрьское"
+          Bbox {
+            X: 533
+            Y: 1037
+            Width: 217
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 60
+      Y: 1129
+      Width: 392
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93190938
+          Recognition: "Кунцевская"
+          Bbox {
+            X: 146
+            Y: 1140
+            Width: 197
+            Height: 34
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 110
+      Y: 1238
+      Width: 371
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96406847
+          Recognition: "Пионерская"
+          Bbox {
+            X: 191
+            Y: 1248
+            Width: 204
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 110
+      Y: 1400
+      Width: 465
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87892431
+          Recognition: "Багратионовская"
+          Bbox {
+            X: 193
+            Y: 1410
+            Width: 296
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 110
+      Y: 1564
+      Width: 377
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Кутузовская"
+          Bbox {
+            X: 190
+            Y: 1574
+            Width: 211
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99939394
+    LineBox {
+      X: 131
+      Y: 1670
+      Width: 441
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Международная"
+          Bbox {
+            X: 208
+            Y: 1679
+            Width: 284
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99902105
+    LineBox {
+      X: 138
+      Y: 1480
+      Width: 193
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.85900617
+          Recognition: "Фили"
+          Bbox {
+            X: 191
+            Y: 1483
+            Width: 84
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.13758548
+    LineBox {
+      X: 378
+      Y: 476
+      Width: 112
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.67529809
+          Recognition: "817"
+          Bbox {
+            X: 409
+            Y: 478
+            Width: 28
+            Height: 17
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.34083381
+    LineBox {
+      X: 470
+      Y: 234
+      Width: 113
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62885886
+          Recognition: "851"
+          Bbox {
+            X: 499
+            Y: 238
+            Width: 29
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.92856055
+    LineBox {
+      X: 601
+      Y: 179
+      Width: 108
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.69693768
+          Recognition: "С"
+          Bbox {
+            X: 632
+            Y: 182
+            Width: 6
+            Height: 21
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62358046
+          Recognition: "ВА"
+          Bbox {
+            X: 651
+            Y: 183
+            Width: 25
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999857
+    LineBox {
+      X: 1195
+      Y: 266
+      Width: 332
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98049849
+          Recognition: "Отрадное"
+          Bbox {
+            X: 1276
+            Y: 276
+            Width: 165
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99989724
+    LineBox {
+      X: 1192
+      Y: 171
+      Width: 339
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Бибирево"
+          Bbox {
+            X: 1279
+            Y: 184
+            Width: 163
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99992108
+    LineBox {
+      X: 1195
+      Y: 89
+      Width: 352
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95442832
+          Recognition: "Алтуфьево"
+          Bbox {
+            X: 1277
+            Y: 93
+            Width: 188
+            Height: 30
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.59026861
+    LineBox {
+      X: 1286
+      Y: 503
+      Width: 199
+      Height: 10
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.72720814
+          Recognition: "П"
+          Bbox {
+            X: 1300
+            Y: 505
+            Width: 1
+            Height: 5
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.50527626
+          Recognition: "П"
+          Bbox {
+            X: 1358
+            Y: 504
+            Width: 2
+            Height: 7
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.634547
+          Recognition: "0"
+          Bbox {
+            X: 1460
+            Y: 506
+            Width: 1
+            Height: 6
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.28803205
+    LineBox {
+      X: 1298
+      Y: 519
+      Width: 139
+      Height: 7
+    }
+  }
+  Lines {
+    Confidence: 0.99734306
+    LineBox {
+      X: 1377
+      Y: 561
+      Width: 141
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.8682003
+          Recognition: "Улица"
+          Bbox {
+            X: 1415
+            Y: 566
+            Width: 63
+            Height: 17
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 1586
+      Y: 583
+      Width: 225
+      Height: 35
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.70684087
+          Recognition: "Телецентр"
+          Bbox {
+            X: 1639
+            Y: 589
+            Width: 119
+            Height: 17
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99940038
+    LineBox {
+      X: 1852
+      Y: 587
+      Width: 137
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64484668
+          Recognition: "центр"
+          Bbox {
+            X: 1888
+            Y: 590
+            Width: 63
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999857
+    LineBox {
+      X: 1969
+      Y: 90
+      Width: 364
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Медведково"
+          Bbox {
+            X: 2042
+            Y: 99
+            Width: 212
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 1956
+      Y: 193
+      Width: 427
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96024656
+          Recognition: "Бабушкинская"
+          Bbox {
+            X: 2041
+            Y: 206
+            Width: 253
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99989796
+    LineBox {
+      X: 1972
+      Y: 306
+      Width: 305
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95701092
+          Recognition: "Свиблово"
+          Bbox {
+            X: 2042
+            Y: 320
+            Width: 161
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999833
+    LineBox {
+      X: 2338
+      Y: 462
+      Width: 281
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95045936
+          Recognition: "бульвар"
+          Bbox {
+            X: 2411
+            Y: 472
+            Width: 131
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999166
+    LineBox {
+      X: 2351
+      Y: 783
+      Width: 280
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.74645084
+          Recognition: "площадь"
+          Bbox {
+            X: 2413
+            Y: 786
+            Width: 153
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 2640
+      Y: 1340
+      Width: 361
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96005905
+          Recognition: "Бауманская"
+          Bbox {
+            X: 2716
+            Y: 1349
+            Width: 200
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999671
+    LineBox {
+      X: 2717
+      Y: 1638
+      Width: 261
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.94562465
+          Recognition: "Перово"
+          Bbox {
+            X: 2785
+            Y: 1648
+            Width: 120
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99906921
+    LineBox {
+      X: 2388
+      Y: 1655
+      Width: 215
+      Height: 36
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68234658
+          Recognition: "Курский"
+          Bbox {
+            X: 2463
+            Y: 1665
+            Width: 82
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99951285
+    LineBox {
+      X: 2040
+      Y: 563
+      Width: 224
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90275633
+          Recognition: "Улица"
+          Bbox {
+            X: 2085
+            Y: 569
+            Width: 57
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.69266456
+          Recognition: "Сергея"
+          Bbox {
+            X: 2154
+            Y: 565
+            Width: 61
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99725819
+    LineBox {
+      X: 1992
+      Y: 658
+      Width: 192
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.80318946
+          Recognition: "вднх"
+          Bbox {
+            X: 2044
+            Y: 662
+            Width: 82
+            Height: 36
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99987531
+    LineBox {
+      X: 1984
+      Y: 853
+      Width: 264
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.97546875
+          Recognition: "Рижская"
+          Bbox {
+            X: 2044
+            Y: 862
+            Width: 139
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.48954013
+    LineBox {
+      X: 1602
+      Y: 763
+      Width: 40
+      Height: 7
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.508615
+          Recognition: "П"
+          Bbox {
+            X: 1612
+            Y: 763
+            Width: 2
+            Height: 6
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99926543
+    LineBox {
+      X: 1585
+      Y: 743
+      Width: 266
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64509606
+          Recognition: "Бутыррская"
+          Bbox {
+            X: 1644
+            Y: 749
+            Width: 142
+            Height: 27
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999237
+    LineBox {
+      X: 1570
+      Y: 840
+      Width: 416
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88257033
+          Recognition: "Марьина"
+          Bbox {
+            X: 1649
+            Y: 849
+            Width: 148
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.85980171
+          Recognition: "Роща"
+          Bbox {
+            X: 1820
+            Y: 849
+            Width: 85
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998021
+    LineBox {
+      X: 1711
+      Y: 664
+      Width: 184
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.682404
+          Recognition: "Королева"
+          Bbox {
+            X: 1757
+            Y: 669
+            Width: 90
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 1691
+      Y: 642
+      Width: 227
+      Height: 28
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61817789
+          Recognition: "Ул."
+          Bbox {
+            X: 1733
+            Y: 646
+            Width: 24
+            Height: 16
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88144708
+          Recognition: "Академика"
+          Bbox {
+            X: 1766
+            Y: 646
+            Width: 107
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999762
+    LineBox {
+      X: 452
+      Y: 460
+      Width: 790
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9883076
+          Recognition: "Планерная"
+          Bbox {
+            X: 533
+            Y: 471
+            Width: 188
+            Height: 25
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.54236966
+          Recognition: "8519"
+          Bbox {
+            X: 784
+            Y: 478
+            Width: 45
+            Height: 17
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Речной"
+          Bbox {
+            X: 906
+            Y: 471
+            Width: 116
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "вокзал"
+          Bbox {
+            X: 1046
+            Y: 471
+            Width: 112
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99260592
+    LineBox {
+      X: 487
+      Y: 1065
+      Width: 173
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.97713095
+          Recognition: "Поле"
+          Bbox {
+            X: 533
+            Y: 1072
+            Width: 75
+            Height: 26
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99995494
+    LineBox {
+      X: 454
+      Y: 802
+      Width: 316
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.69820404
+          Recognition: "Спартак"
+          Bbox {
+            X: 532
+            Y: 811
+            Width: 136
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 450
+      Y: 688
+      Width: 357
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.84292656
+          Recognition: "тушинская"
+          Bbox {
+            X: 532
+            Y: 698
+            Width: 188
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.17925981
+    LineBox {
+      X: 619
+      Y: 256
+      Width: 109
+      Height: 24
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.6721698
+          Recognition: "817"
+          Bbox {
+            X: 668
+            Y: 257
+            Width: 29
+            Height: 17
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99986219
+    LineBox {
+      X: 552
+      Y: 1315
+      Width: 255
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92768657
+          Recognition: "беговая"
+          Bbox {
+            X: 614
+            Y: 1323
+            Width: 127
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.30906913
+    LineBox {
+      X: 756
+      Y: 476
+      Width: 105
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.5239287
+          Recognition: "8519_"
+          Bbox {
+            X: 783
+            Y: 479
+            Width: 65
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.34866765
+    LineBox {
+      X: 828
+      Y: 379
+      Width: 57
+      Height: 7
+    }
+  }
+  Lines {
+    Confidence: 0.63825923
+    LineBox {
+      X: 860
+      Y: 393
+      Width: 41
+      Height: 7
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 823
+      Y: 987
+      Width: 328
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92475146
+          Recognition: "Аэропорт"
+          Bbox {
+            X: 902
+            Y: 995
+            Width: 165
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999881
+    LineBox {
+      X: 838
+      Y: 624
+      Width: 273
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.81576771
+          Recognition: "Стадион"
+          Bbox {
+            X: 904
+            Y: 629
+            Width: 137
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99988651
+    LineBox {
+      X: 833
+      Y: 582
+      Width: 277
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.58545727
+          Recognition: "водныый"
+          Bbox {
+            X: 904
+            Y: 593
+            Width: 128
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99123657
+    LineBox {
+      X: 849
+      Y: 865
+      Width: 205
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98562044
+          Recognition: "Сокол"
+          Bbox {
+            X: 905
+            Y: 874
+            Width: 93
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 712
+      Y: 1222
+      Width: 289
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88690042
+          Recognition: "динамо"
+          Bbox {
+            X: 791
+            Y: 1232
+            Width: 131
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 708
+      Y: 1330
+      Width: 381
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96885026
+          Recognition: "белорусская"
+          Bbox {
+            X: 792
+            Y: 1339
+            Width: 211
+            Height: 26
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999523
+    LineBox {
+      X: 442
+      Y: 1538
+      Width: 318
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "1905"
+          Bbox {
+            X: 519
+            Y: 1542
+            Width: 71
+            Height: 30
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89140022
+          Recognition: "года"
+          Bbox {
+            X: 611
+            Y: 1548
+            Width: 69
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99973035
+    LineBox {
+      X: 524
+      Y: 1502
+      Width: 217
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.81754237
+          Recognition: "Улица-"
+          Bbox {
+            X: 581
+            Y: 1513
+            Width: 113
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 555
+      Y: 1730
+      Width: 308
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62962544
+          Recognition: "деловой"
+          Bbox {
+            X: 638
+            Y: 1742
+            Width: 140
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999809
+    LineBox {
+      X: 593
+      Y: 2714
+      Width: 390
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92072165
+          Recognition: "Вернадского"
+          Bbox {
+            X: 675
+            Y: 2723
+            Width: 222
+            Height: 26
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 592
+      Y: 2676
+      Width: 333
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96410352
+          Recognition: "Проспект"
+          Bbox {
+            X: 676
+            Y: 2686
+            Width: 163
+            Height: 34
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999762
+    LineBox {
+      X: 989
+      Y: 3496
+      Width: 173
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95390427
+          Recognition: "парк"
+          Bbox {
+            X: 1038
+            Y: 3500
+            Width: 73
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99662471
+    LineBox {
+      X: 1273
+      Y: 3548
+      Width: 216
+      Height: 50
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91067958
+          Recognition: "Улица"
+          Bbox {
+            X: 1330
+            Y: 3558
+            Width: 98
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.85489529
+    LineBox {
+      X: 634
+      Y: 2843
+      Width: 153
+      Height: 26
+    }
+  }
+  Lines {
+    Confidence: 0.99976683
+    LineBox {
+      X: 173
+      Y: 2975
+      Width: 177
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87018228
+          Recognition: "каховская"
+          Bbox {
+            X: 211
+            Y: 2977
+            Width: 98
+            Height: 18
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99995613
+    LineBox {
+      X: 1502
+      Y: 2370
+      Width: 275
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.83080208
+          Recognition: "полянка"
+          Bbox {
+            X: 1567
+            Y: 2380
+            Width: 140
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999857
+    LineBox {
+      X: 1480
+      Y: 2542
+      Width: 405
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93903077
+          Recognition: "серпуховская"
+          Bbox {
+            X: 1561
+            Y: 2552
+            Width: 238
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999237
+    LineBox {
+      X: 1482
+      Y: 2614
+      Width: 317
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91586936
+          Recognition: "тульская"
+          Bbox {
+            X: 1565
+            Y: 2623
+            Width: 147
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 1486
+      Y: 2754
+      Width: 325
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9827041
+          Recognition: "Нагорная"
+          Bbox {
+            X: 1568
+            Y: 2764
+            Width: 157
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1500
+      Y: 2864
+      Width: 299
+      Height: 45
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87355435
+          Recognition: "проспект"
+          Bbox {
+            X: 1569
+            Y: 2868
+            Width: 159
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1546
+      Y: 2951
+      Width: 753
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88854116
+          Recognition: "Варшавская"
+          Bbox {
+            X: 1632
+            Y: 2965
+            Width: 207
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92861867
+          Recognition: "Каширская"
+          Bbox {
+            X: 2020
+            Y: 2962
+            Width: 189
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.97138375
+    LineBox {
+      X: 1048
+      Y: 3176
+      Width: 363
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.73345226
+          Recognition: "теплый"
+          Bbox {
+            X: 1119
+            Y: 3188
+            Width: 124
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93727934
+          Recognition: "Стан"
+          Bbox {
+            X: 1267
+            Y: 3188
+            Width: 71
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999118
+    LineBox {
+      X: 1060
+      Y: 3250
+      Width: 271
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Ясенево"
+          Bbox {
+            X: 1126
+            Y: 3260
+            Width: 135
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.999877
+    LineBox {
+      X: 1060
+      Y: 3034
+      Width: 271
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Беляево"
+          Bbox {
+            X: 1126
+            Y: 3045
+            Width: 134
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999619
+    LineBox {
+      X: 1044
+      Y: 2960
+      Width: 349
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95240891
+          Recognition: "калужская"
+          Bbox {
+            X: 1125
+            Y: 2970
+            Width: 181
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 1044
+      Y: 2818
+      Width: 843
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.94850856
+          Recognition: "Профсоюзная"
+          Bbox {
+            X: 1125
+            Y: 2828
+            Width: 243
+            Height: 32
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.7875843
+          Recognition: "нахимовский"
+          Bbox {
+            X: 1569
+            Y: 2832
+            Width: 232
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99938512
+    LineBox {
+      X: 1056
+      Y: 2598
+      Width: 375
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.85906321
+          Recognition: "Шаболовская"
+          Bbox {
+            X: 1130
+            Y: 2604
+            Width: 229
+            Height: 30
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999094
+    LineBox {
+      X: 1128
+      Y: 2497
+      Width: 441
+      Height: 59
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93185377
+          Recognition: "добрынинская"
+          Bbox {
+            X: 1220
+            Y: 2512
+            Width: 258
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99974751
+    LineBox {
+      X: 930
+      Y: 1884
+      Width: 663
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95258689
+          Recognition: "Смоленская"
+          Bbox {
+            X: 1017
+            Y: 1899
+            Width: 190
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9797309
+          Recognition: "Арбатская"
+          Bbox {
+            X: 1336
+            Y: 1897
+            Width: 168
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99991655
+    LineBox {
+      X: 2114
+      Y: 2002
+      Width: 301
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93701321
+          Recognition: "Таганская)"
+          Bbox {
+            X: 2180
+            Y: 2002
+            Width: 182
+            Height: 44
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.51275927
+          Recognition: "А*"
+          Bbox {
+            X: 2373
+            Y: 2002
+            Width: 31
+            Height: 44
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99802113
+    LineBox {
+      X: 1559
+      Y: 1220
+      Width: 293
+      Height: 59
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Трубная"
+          Bbox {
+            X: 1636
+            Y: 1234
+            Width: 136
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99984336
+    LineBox {
+      X: 1158
+      Y: 1404
+      Width: 339
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95020056
+          Recognition: "Маяковская"
+          Bbox {
+            X: 1226
+            Y: 1414
+            Width: 202
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99909383
+    LineBox {
+      X: 1844
+      Y: 1333
+      Width: 289
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "бульвар"
+          Bbox {
+            X: 1919
+            Y: 1347
+            Width: 135
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999237
+    LineBox {
+      X: 2073
+      Y: 1385
+      Width: 284
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89469171
+          Recognition: "красные"
+          Bbox {
+            X: 2147
+            Y: 1388
+            Width: 133
+            Height: 39
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99966621
+    LineBox {
+      X: 2086
+      Y: 1421
+      Width: 232
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98943532
+          Recognition: "Ворота"
+          Bbox {
+            X: 2147
+            Y: 1424
+            Width: 105
+            Height: 30
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99898458
+    LineBox {
+      X: 1754
+      Y: 1668
+      Width: 292
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Лубянка"
+          Bbox {
+            X: 1831
+            Y: 1680
+            Width: 135
+            Height: 31
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1940
+      Y: 2458
+      Width: 357
+      Height: 50
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.94111478
+          Recognition: "Павелецкая"
+          Bbox {
+            X: 2015
+            Y: 2468
+            Width: 203
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99980855
+    LineBox {
+      X: 1956
+      Y: 2847
+      Width: 353
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98349643
+          Recognition: "Коломенская"
+          Bbox {
+            X: 2017
+            Y: 2855
+            Width: 227
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99986863
+    LineBox {
+      X: 2244
+      Y: 2416
+      Width: 345
+      Height: 59
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "дубровка"
+          Bbox {
+            X: 2334
+            Y: 2430
+            Width: 164
+            Height: 31
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99959582
+    LineBox {
+      X: 2376
+      Y: 2326
+      Width: 253
+      Height: 42
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.97748578
+          Recognition: "Застава"
+          Bbox {
+            X: 2438
+            Y: 2335
+            Width: 124
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1939
+      Y: 3244
+      Width: 301
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92285967
+          Recognition: "Орехово"
+          Bbox {
+            X: 2019
+            Y: 3254
+            Width: 138
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999642
+    LineBox {
+      X: 1936
+      Y: 3156
+      Width: 346
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.60996574
+          Recognition: "Царицынно"
+          Bbox {
+            X: 2017
+            Y: 3165
+            Width: 179
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 1118
+      Y: 1640
+      Width: 633
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.99367881
+          Recognition: "Тверская"
+          Bbox {
+            X: 1195
+            Y: 1649
+            Width: 153
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89228261
+          Recognition: "чеховская"
+          Bbox {
+            X: 1495
+            Y: 1649
+            Width: 175
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99963206
+    LineBox {
+      X: 81
+      Y: 674
+      Width: 447
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.58156854
+          Recognition: "я&р"
+          Bbox {
+            X: 408
+            Y: 690
+            Width: 49
+            Height: 18
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.86828119
+          Recognition: "волоколамская"
+          Bbox {
+            X: 147
+            Y: 683
+            Width: 268
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 630
+      Y: 3729
+      Width: 1067
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68094546
+          Recognition: "а&"
+          Bbox {
+            X: 1283
+            Y: 3744
+            Width: 30
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.53501511
+          Recognition: "Р"
+          Bbox {
+            X: 1329
+            Y: 3743
+            Width: 7
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.78888512
+          Recognition: "с"
+          Bbox {
+            X: 879
+            Y: 3748
+            Width: 7
+            Height: 17
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.94273955
+          Recognition: "Горчакова"
+          Bbox {
+            X: 716
+            Y: 3742
+            Width: 173
+            Height: 25
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90119153
+          Recognition: "адмирала"
+          Bbox {
+            X: 951
+            Y: 3736
+            Width: 174
+            Height: 36
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88074982
+          Recognition: "Ушакова"
+          Bbox {
+            X: 1146
+            Y: 3742
+            Width: 145
+            Height: 25
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9697718
+          Recognition: "Скобелевская"
+          Bbox {
+            X: 1372
+            Y: 3742
+            Width: 239
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99939942
+    LineBox {
+      X: 2720
+      Y: 774
+      Width: 409
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.50065166
+          Recognition: "Я"
+          Bbox {
+            X: 3028
+            Y: 788
+            Width: 7
+            Height: 18
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.616763
+          Recognition: "Р"
+          Bbox {
+            X: 3053
+            Y: 788
+            Width: 5
+            Height: 18
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.80493438
+          Recognition: "измайловская"
+          Bbox {
+            X: 2784
+            Y: 779
+            Width: 250
+            Height: 30
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99988866
+    LineBox {
+      X: 2346
+      Y: 3270
+      Width: 421
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.66336536
+          Recognition: "я&"
+          Bbox {
+            X: 2645
+            Y: 3285
+            Width: 29
+            Height: 19
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.58742595
+          Recognition: "шшипиловская"
+          Bbox {
+            X: 2412
+            Y: 3274
+            Width: 240
+            Height: 30
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99997067
+    LineBox {
+      X: 2342
+      Y: 3368
+      Width: 369
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61948889
+          Recognition: "О&"
+          Bbox {
+            X: 2583
+            Y: 3380
+            Width: 30
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.53730989
+          Recognition: "Р"
+          Bbox {
+            X: 2629
+            Y: 3380
+            Width: 7
+            Height: 23
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90514386
+          Recognition: "Зябликово"
+          Bbox {
+            X: 2412
+            Y: 3380
+            Width: 182
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99784511
+    LineBox {
+      X: 1502
+      Y: 525
+      Width: 309
+      Height: 35
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61284131
+          Recognition: "фонвизинская"
+          Bbox {
+            X: 1556
+            Y: 527
+            Width: 199
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99962896
+    LineBox {
+      X: 268
+      Y: 2225
+      Width: 331
+      Height: 35
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59354508
+          Recognition: "ломоносовский"
+          Bbox {
+            X: 322
+            Y: 2234
+            Width: 221
+            Height: 18
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99667645
+    LineBox {
+      X: 942
+      Y: 1784
+      Width: 329
+      Height: 42
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87261331
+          Recognition: "смоленская"
+          Bbox {
+            X: 1006
+            Y: 1793
+            Width: 197
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99993563
+    LineBox {
+      X: 2246
+      Y: 1287
+      Width: 315
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.67350197
+          Recognition: "Ленинградский"
+          Bbox {
+            X: 2339
+            Y: 1295
+            Width: 165
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99985242
+    LineBox {
+      X: 748
+      Y: 1404
+      Width: 227
+      Height: 26
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.56850243
+          Recognition: "азэроэкспресс"
+          Bbox {
+            X: 788
+            Y: 1405
+            Width: 145
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999907
+    LineBox {
+      X: 2780
+      Y: 536
+      Width: 185
+      Height: 21
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.55931842
+          Recognition: "авто"
+          Bbox {
+            X: 2812
+            Y: 538
+            Width: 43
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.71871716
+          Recognition: "вокзал"
+          Bbox {
+            X: 2863
+            Y: 537
+            Width: 67
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9998877
+    LineBox {
+      X: 1990
+      Y: 2549
+      Width: 241
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59458208
+          Recognition: "В"
+          Bbox {
+            X: 2032
+            Y: 2552
+            Width: 6
+            Height: 22
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.6106934
+          Recognition: "домодедово"
+          Bbox {
+            X: 2051
+            Y: 2555
+            Width: 133
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9996779
+    LineBox {
+      X: 2432
+      Y: 1688
+      Width: 133
+      Height: 21
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59030539
+          Recognition: "вок3ал"
+          Bbox {
+            X: 2463
+            Y: 1690
+            Width: 66
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9998436
+    LineBox {
+      X: 2362
+      Y: 545
+      Width: 371
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.55069244
+          Recognition: "бывш."
+          Bbox {
+            X: 2408
+            Y: 553
+            Width: 59
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91611296
+          Recognition: "Улица"
+          Bbox {
+            X: 2476
+            Y: 553
+            Width: 57
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91875941
+          Recognition: "Подбельского"
+          Bbox {
+            X: 2547
+            Y: 552
+            Width: 136
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999237
+    LineBox {
+      X: 638
+      Y: 2009
+      Width: 226
+      Height: 26
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.60464805
+          Recognition: "азроэкспресс"
+          Bbox {
+            X: 678
+            Y: 2011
+            Width: 143
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99825734
+    LineBox {
+      X: 2302
+      Y: 1343
+      Width: 303
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.584375
+          Recognition: "И"
+          Bbox {
+            X: 2339
+            Y: 1344
+            Width: 6
+            Height: 18
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.60471618
+          Recognition: "казанский"
+          Bbox {
+            X: 2360
+            Y: 1348
+            Width: 105
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59299326
+          Recognition: "вокзалы"
+          Bbox {
+            X: 2480
+            Y: 1347
+            Width: 82
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999332
+    LineBox {
+      X: 2270
+      Y: 1315
+      Width: 254
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68237
+          Recognition: "Ярославский"
+          Bbox {
+            X: 2340
+            Y: 1322
+            Width: 134
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99996781
+    LineBox {
+      X: 1225
+      Y: 915
+      Width: 334
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61941475
+          Recognition: "Савеловский"
+          Bbox {
+            X: 1294
+            Y: 923
+            Width: 133
+            Height: 16
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89121139
+          Recognition: "вокзал"
+          Bbox {
+            X: 1443
+            Y: 924
+            Width: 66
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99997735
+    LineBox {
+      X: 740
+      Y: 1373
+      Width: 309
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68380213
+          Recognition: "Белорусский"
+          Bbox {
+            X: 789
+            Y: 1380
+            Width: 135
+            Height: 15
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.57078433
+          Recognition: "вкз,"
+          Bbox {
+            X: 937
+            Y: 1380
+            Width: 40
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99986386
+    LineBox {
+      X: 1960
+      Y: 2495
+      Width: 338
+      Height: 35
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65087056
+          Recognition: "Павелецкий"
+          Bbox {
+            X: 2033
+            Y: 2506
+            Width: 128
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9303239
+          Recognition: "вокзал"
+          Bbox {
+            X: 2176
+            Y: 2505
+            Width: 68
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99976397
+    LineBox {
+      X: 1994
+      Y: 891
+      Width: 293
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63945842
+          Recognition: "Рижский"
+          Bbox {
+            X: 2064
+            Y: 901
+            Width: 90
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91408724
+          Recognition: "вокзал"
+          Bbox {
+            X: 2168
+            Y: 900
+            Width: 68
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.999985
+    LineBox {
+      X: 2722
+      Y: 1500
+      Width: 358
+      Height: 42
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64788365
+          Recognition: "О&"
+          Bbox {
+            X: 2982
+            Y: 1508
+            Width: 31
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.80745631
+          Recognition: "новокосино"
+          Bbox {
+            X: 2786
+            Y: 1507
+            Width: 206
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 954
+      Y: 1999
+      Width: 931
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93754727
+          Recognition: "Александровский"
+          Bbox {
+            X: 1393
+            Y: 2010
+            Width: 323
+            Height: 47
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92327273
+          Recognition: "сад"
+          Bbox {
+            X: 1739
+            Y: 2011
+            Width: 54
+            Height: 30
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.94528651
+          Recognition: "Боровицкая"
+          Bbox {
+            X: 1042
+            Y: 2012
+            Width: 203
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999833
+    LineBox {
+      X: 1927
+      Y: 2124
+      Width: 830
+      Height: 56
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Новокузнецкая"
+          Bbox {
+            X: 2008
+            Y: 2135
+            Width: 259
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87917417
+          Recognition: "марксистская"
+          Bbox {
+            X: 2429
+            Y: 2134
+            Width: 241
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99987268
+    LineBox {
+      X: 708
+      Y: 1881
+      Width: 274
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.99878848
+          Recognition: "Киевская"
+          Bbox {
+            X: 771
+            Y: 1889
+            Width: 146
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1560
+      Y: 2198
+      Width: 419
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.88174593
+          Recognition: "Третьяковская"
+          Bbox {
+            X: 1641
+            Y: 2208
+            Width: 252
+            Height: 33
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.81053907
+          Recognition: "вская"
+          Bbox {
+            X: 1811
+            Y: 2198
+            Width: 83
+            Height: 54
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1128
+      Y: 2232
+      Width: 434
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.86798507
+          Recognition: "кропоткинская"
+          Bbox {
+            X: 1210
+            Y: 2242
+            Width: 267
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 1203
+      Y: 998
+      Width: 422
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.67934346
+          Recognition: "\\менделеевская"
+          Bbox {
+            X: 1258
+            Y: 998
+            Width: 290
+            Height: 34
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99996591
+    LineBox {
+      X: 1960
+      Y: 1484
+      Width: 413
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90281737
+          Recognition: "Чистые"
+          Bbox {
+            X: 2040
+            Y: 1494
+            Width: 123
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91243291
+          Recognition: "пруды"
+          Bbox {
+            X: 2185
+            Y: 1494
+            Width: 97
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 94
+      Y: 1874
+      Width: 405
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Студенческая"
+          Bbox {
+            X: 176
+            Y: 1884
+            Width: 236
+            Height: 34
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999142
+    LineBox {
+      X: 172
+      Y: 2447
+      Width: 240
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63546437
+          Recognition: "сокольническая"
+          Bbox {
+            X: 210
+            Y: 2452
+            Width: 162
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 164
+      Y: 2488
+      Width: 262
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.6640057
+          Recognition: "Замоскворецкая"
+          Bbox {
+            X: 209
+            Y: 2494
+            Width: 168
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999833
+    LineBox {
+      X: 160
+      Y: 2529
+      Width: 326
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.71280807
+          Recognition: "арбатско-покровская"
+          Bbox {
+            X: 212
+            Y: 2536
+            Width: 222
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999833
+    LineBox {
+      X: 163
+      Y: 2659
+      Width: 290
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63612348
+          Recognition: "Калужско-"
+          Bbox {
+            X: 211
+            Y: 2662
+            Width: 105
+            Height: 19
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.86250496
+          Recognition: "Рижская"
+          Bbox {
+            X: 321
+            Y: 2665
+            Width: 80
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999666
+    LineBox {
+      X: 165
+      Y: 2730
+      Width: 296
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91230482
+          Recognition: "Краснопресненская"
+          Bbox {
+            X: 211
+            Y: 2736
+            Width: 201
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999547
+    LineBox {
+      X: 168
+      Y: 2818
+      Width: 214
+      Height: 28
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65605217
+          Recognition: "солнцевская"
+          Bbox {
+            X: 210
+            Y: 2823
+            Width: 127
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999905
+    LineBox {
+      X: 164
+      Y: 2862
+      Width: 221
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65301704
+          Recognition: "Серпуховско"
+          Bbox {
+            X: 210
+            Y: 2864
+            Width: 128
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 164
+      Y: 3414
+      Width: 282
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68062192
+          Recognition: "приспособленные"
+          Bbox {
+            X: 211
+            Y: 3421
+            Width: 184
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 170
+      Y: 3447
+      Width: 267
+      Height: 26
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.563588
+          Recognition: "ДЛЯ"
+          Bbox {
+            X: 211
+            Y: 3449
+            Width: 31
+            Height: 19
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.66163558
+          Recognition: "проезда"
+          Bbox {
+            X: 256
+            Y: 3449
+            Width: 79
+            Height: 20
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62586844
+          Recognition: "мало"
+          Bbox {
+            X: 349
+            Y: 3448
+            Width: 46
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999833
+    LineBox {
+      X: 162
+      Y: 3469
+      Width: 345
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68018192
+          Recognition: "мобильныых"
+          Bbox {
+            X: 213
+            Y: 3471
+            Width: 112
+            Height: 21
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.73632103
+          Recognition: "пассажиров"
+          Bbox {
+            X: 337
+            Y: 3477
+            Width: 119
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 160
+      Y: 3722
+      Width: 338
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68666548
+          Recognition: "автобусные"
+          Bbox {
+            X: 210
+            Y: 3730
+            Width: 118
+            Height: 15
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.643383
+          Recognition: "маршруты"
+          Bbox {
+            X: 342
+            Y: 3729
+            Width: 105
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999814
+    LineBox {
+      X: 160
+      Y: 3680
+      Width: 298
+      Height: 34
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.68820328
+          Recognition: "Автобусный"
+          Bbox {
+            X: 211
+            Y: 3687
+            Width: 118
+            Height: 16
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "вокзал"
+          Bbox {
+            X: 342
+            Y: 3687
+            Width: 64
+            Height: 16
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 174
+      Y: 3350
+      Width: 241
+      Height: 25
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61122149
+          Recognition: "парковки"
+          Bbox {
+            X: 211
+            Y: 3351
+            Width: 92
+            Height: 15
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63305956
+          Recognition: "метро"
+          Bbox {
+            X: 317
+            Y: 3351
+            Width: 57
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999881
+    LineBox {
+      X: 167
+      Y: 3318
+      Width: 284
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63179332
+          Recognition: "перехватыввающие"
+          Bbox {
+            X: 211
+            Y: 3323
+            Width: 193
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998212
+    LineBox {
+      X: 98
+      Y: 3245
+      Width: 406
+      Height: 35
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.50127637
+          Recognition: "@-ю"
+          Bbox {
+            X: 151
+            Y: 3246
+            Width: 39
+            Height: 26
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.69477195
+          Recognition: "Кросс-платформенные"
+          Bbox {
+            X: 211
+            Y: 3253
+            Width: 239
+            Height: 21
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999938
+    LineBox {
+      X: 95
+      Y: 3202
+      Width: 370
+      Height: 35
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.66746771
+          Recognition: "Станции"
+          Bbox {
+            X: 209
+            Y: 3211
+            Width: 82
+            Height: 15
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.71784437
+          Recognition: "пересадок"
+          Bbox {
+            X: 306
+            Y: 3211
+            Width: 103
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999666
+    LineBox {
+      X: 164
+      Y: 3163
+      Width: 306
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64933914
+          Recognition: "Строящиеся"
+          Bbox {
+            X: 210
+            Y: 3169
+            Width: 123
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.645786
+          Recognition: "участки"
+          Bbox {
+            X: 346
+            Y: 3169
+            Width: 75
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99996042
+    LineBox {
+      X: 164
+      Y: 3093
+      Width: 337
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63868284
+          Recognition: "Ул."
+          Bbox {
+            X: 209
+            Y: 3099
+            Width: 23
+            Height: 14
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.70277691
+          Recognition: "Сергея"
+          Bbox {
+            X: 243
+            Y: 3098
+            Width: 62
+            Height: 16
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.63097143
+          Recognition: "Эйзенштейна"
+          Bbox {
+            X: 318
+            Y: 3094
+            Width: 135
+            Height: 20
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 163
+      Y: 3065
+      Width: 249
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90275407
+          Recognition: "Тимирязевская"
+          Bbox {
+            X: 209
+            Y: 3067
+            Width: 154
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99982953
+    LineBox {
+      X: 594
+      Y: 1981
+      Width: 327
+      Height: 32
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64597726
+          Recognition: "Киевский"
+          Bbox {
+            X: 642
+            Y: 1988
+            Width: 96
+            Height: 15
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.83136672
+          Recognition: "вокзал,"
+          Bbox {
+            X: 754
+            Y: 1988
+            Width: 73
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999833
+    LineBox {
+      X: 750
+      Y: 2286
+      Width: 369
+      Height: 50
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.99373764
+          Recognition: "Фрунзенская"
+          Bbox {
+            X: 815
+            Y: 2294
+            Width: 224
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99973965
+    LineBox {
+      X: 1500
+      Y: 3052
+      Width: 433
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89457166
+          Recognition: "севастопольская"
+          Bbox {
+            X: 1567
+            Y: 3063
+            Width: 297
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1492
+      Y: 3632
+      Width: 305
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "о"
+          Bbox {
+            X: 1710
+            Y: 3641
+            Width: 10
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.83132172
+          Recognition: "донского"
+          Bbox {
+            X: 1569
+            Y: 3641
+            Width: 150
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999785
+    LineBox {
+      X: 2338
+      Y: 2982
+      Width: 411
+      Height: 50
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93399924
+          Recognition: "Братиславская"
+          Bbox {
+            X: 2415
+            Y: 2991
+            Width: 254
+            Height: 31
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99958676
+    LineBox {
+      X: 2346
+      Y: 2678
+      Width: 321
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.853452
+          Recognition: "печатники"
+          Bbox {
+            X: 2412
+            Y: 2689
+            Width: 184
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99997735
+    LineBox {
+      X: 2722
+      Y: 3106
+      Width: 355
+      Height: 42
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59970677
+          Recognition: "_котельники"
+          Bbox {
+            X: 2759
+            Y: 3109
+            Width: 228
+            Height: 29
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2696
+      Y: 2901
+      Width: 455
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.60095376
+          Recognition: "лермонтовский"
+          Bbox {
+            X: 2781
+            Y: 2913
+            Width: 280
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999833
+    LineBox {
+      X: 2704
+      Y: 2622
+      Width: 353
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.83889079
+          Recognition: "Кузьминки"
+          Bbox {
+            X: 2785
+            Y: 2632
+            Width: 184
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 2708
+      Y: 2544
+      Width: 403
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.81212389
+          Recognition: "текстильщики"
+          Bbox {
+            X: 2781
+            Y: 2553
+            Width: 252
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 2702
+      Y: 2424
+      Width: 431
+      Height: 56
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89771473
+          Recognition: "Волгоградский"
+          Bbox {
+            X: 2787
+            Y: 2435
+            Width: 256
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999857
+    LineBox {
+      X: 2616
+      Y: 2234
+      Width: 400
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.97707433
+          Recognition: "Пролетарская"
+          Bbox {
+            X: 2693
+            Y: 2243
+            Width: 241
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9992764
+    LineBox {
+      X: 2572
+      Y: 1912
+      Width: 449
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Площадь"
+          Bbox {
+            X: 2645
+            Y: 1921
+            Width: 157
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Ильича"
+          Bbox {
+            X: 2825
+            Y: 1921
+            Width: 118
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 2644
+      Y: 1840
+      Width: 418
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92905474
+          Recognition: "авиамоторная"
+          Bbox {
+            X: 2723
+            Y: 1849
+            Width: 255
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2706
+      Y: 1172
+      Width: 452
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96786106
+          Recognition: "Электрозаводская"
+          Bbox {
+            X: 2785
+            Y: 1182
+            Width: 320
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 64
+      Y: 944
+      Width: 369
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89882088
+          Recognition: "Крылатское"
+          Bbox {
+            X: 146
+            Y: 948
+            Width: 201
+            Height: 39
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998093
+    LineBox {
+      X: 105
+      Y: 1315
+      Width: 464
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91078603
+          Recognition: "Филевский"
+          Bbox {
+            X: 192
+            Y: 1329
+            Width: 189
+            Height: 22
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.97946143
+          Recognition: "парк"
+          Bbox {
+            X: 405
+            Y: 1328
+            Width: 75
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9995243
+    LineBox {
+      X: 216
+      Y: 1745
+      Width: 342
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62406808
+          Recognition: "высставочная"
+          Bbox {
+            X: 277
+            Y: 1753
+            Width: 215
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99983573
+    LineBox {
+      X: 343
+      Y: 134
+      Width: 694
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.52007204
+          Recognition: "(%о*)"
+          Bbox {
+            X: 424
+            Y: 135
+            Width: 78
+            Height: 39
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.96567559
+          Recognition: "Аэропорт"
+          Bbox {
+            X: 524
+            Y: 144
+            Width: 166
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.70189303
+          Recognition: "Шереметьево"
+          Bbox {
+            X: 712
+            Y: 138
+            Width: 240
+            Height: 29
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99990988
+    LineBox {
+      X: 932
+      Y: 1093
+      Width: 440
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98222131
+          Recognition: "Новослободская"
+          Bbox {
+            X: 1011
+            Y: 1106
+            Width: 280
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99966717
+    LineBox {
+      X: 1198
+      Y: 446
+      Width: 585
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87308472
+          Recognition: "петровско-разумовская"
+          Bbox {
+            X: 1275
+            Y: 455
+            Width: 426
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999969
+    LineBox {
+      X: 1204
+      Y: 358
+      Width: 345
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62389266
+          Recognition: "владыккино"
+          Bbox {
+            X: 1278
+            Y: 368
+            Width: 191
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99968386
+    LineBox {
+      X: 1278
+      Y: 584
+      Width: 243
+      Height: 26
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59512472
+          Recognition: "милашшенкова"
+          Bbox {
+            X: 1322
+            Y: 586
+            Width: 157
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99987531
+    LineBox {
+      X: 1759
+      Y: 562
+      Width: 234
+      Height: 26
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.56528926
+          Recognition: "высставочныый"
+          Bbox {
+            X: 1800
+            Y: 567
+            Width: 148
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99992394
+    LineBox {
+      X: 1980
+      Y: 425
+      Width: 371
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.947043
+          Recognition: "Ботанический"
+          Bbox {
+            X: 2043
+            Y: 433
+            Width: 241
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2336
+      Y: 1018
+      Width: 435
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.910368
+          Recognition: "красносельская"
+          Bbox {
+            X: 2413
+            Y: 1027
+            Width: 276
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99997592
+    LineBox {
+      X: 2212
+      Y: 1250
+      Width: 405
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91268688
+          Recognition: "(комсомольская"
+          Bbox {
+            X: 2257
+            Y: 1253
+            Width: 292
+            Height: 31
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99994707
+    LineBox {
+      X: 2346
+      Y: 896
+      Width: 339
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.82605743
+          Recognition: "сокольники"
+          Bbox {
+            X: 2412
+            Y: 907
+            Width: 203
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99996257
+    LineBox {
+      X: 2328
+      Y: 735
+      Width: 471
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Преображенская"
+          Bbox {
+            X: 2414
+            Y: 748
+            Width: 295
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2330
+      Y: 618
+      Width: 407
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90048325
+          Recognition: "черкизовская"
+          Bbox {
+            X: 2412
+            Y: 628
+            Width: 240
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2352
+      Y: 282
+      Width: 759
+      Height: 74
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.62887573
+          Recognition: "московское"
+          Bbox {
+            X: 2468
+            Y: 287
+            Width: 326
+            Height: 42
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.67670238
+          Recognition: "метро"
+          Bbox {
+            X: 2832
+            Y: 294
+            Width: 163
+            Height: 35
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99997497
+    LineBox {
+      X: 2345
+      Y: 500
+      Width: 668
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.64898813
+          Recognition: "Щелковский"
+          Bbox {
+            X: 2813
+            Y: 511
+            Width: 132
+            Height: 20
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61971951
+          Recognition: "рокоссовского"
+          Bbox {
+            X: 2410
+            Y: 509
+            Width: 249
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 2706
+      Y: 460
+      Width: 373
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.929281
+          Recognition: "Щелковская"
+          Bbox {
+            X: 2784
+            Y: 466
+            Width: 211
+            Height: 36
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99786144
+    LineBox {
+      X: 2714
+      Y: 1040
+      Width: 369
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.87847227
+          Recognition: "семеновская"
+          Bbox {
+            X: 2784
+            Y: 1052
+            Width: 227
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999714
+    LineBox {
+      X: 2708
+      Y: 910
+      Width: 398
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9319244
+          Recognition: "партизанская"
+          Bbox {
+            X: 2785
+            Y: 918
+            Width: 239
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999738
+    LineBox {
+      X: 2702
+      Y: 640
+      Width: 422
+      Height: 56
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92999232
+          Recognition: "Первомайская"
+          Bbox {
+            X: 2785
+            Y: 652
+            Width: 250
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999905
+    LineBox {
+      X: 2708
+      Y: 1568
+      Width: 383
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93067616
+          Recognition: "Новогиреево"
+          Bbox {
+            X: 2785
+            Y: 1576
+            Width: 224
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99998164
+    LineBox {
+      X: 2355
+      Y: 1616
+      Width: 285
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Курская"
+          Bbox {
+            X: 2428
+            Y: 1624
+            Width: 132
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99907112
+    LineBox {
+      X: 2048
+      Y: 587
+      Width: 209
+      Height: 24
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.5318011
+          Recognition: "ас"
+          Bbox {
+            X: 2214
+            Y: 595
+            Width: 16
+            Height: 11
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59854871
+          Recognition: "Эйзеннштейна"
+          Bbox {
+            X: 2084
+            Y: 587
+            Width: 135
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999547
+    LineBox {
+      X: 1888
+      Y: 1032
+      Width: 431
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "(проспект"
+          Bbox {
+            X: 1949
+            Y: 1035
+            Width: 177
+            Height: 38
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98312116
+          Recognition: "Мира"
+          Bbox {
+            X: 2149
+            Y: 1042
+            Width: 86
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99828529
+    LineBox {
+      X: 1978
+      Y: 758
+      Width: 369
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91661978
+          Recognition: "алексеевская"
+          Bbox {
+            X: 2045
+            Y: 762
+            Width: 234
+            Height: 31
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 1194
+      Y: 676
+      Width: 431
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91942418
+          Recognition: "Тимирязевская"
+          Bbox {
+            X: 1273
+            Y: 686
+            Width: 266
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 1196
+      Y: 774
+      Width: 393
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.86044842
+          Recognition: "дмитровская"
+          Bbox {
+            X: 1277
+            Y: 783
+            Width: 230
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99972081
+    LineBox {
+      X: 1206
+      Y: 874
+      Width: 357
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.85388565
+          Recognition: "савеловская"
+          Bbox {
+            X: 1274
+            Y: 886
+            Width: 215
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1567
+      Y: 926
+      Width: 374
+      Height: 50
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89689147
+          Recognition: "достоевская"
+          Bbox {
+            X: 1646
+            Y: 936
+            Width: 214
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99968815
+    LineBox {
+      X: 840
+      Y: 740
+      Width: 331
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Войковская"
+          Bbox {
+            X: 906
+            Y: 751
+            Width: 196
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99942619
+    LineBox {
+      X: 468
+      Y: 1176
+      Width: 383
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93239075
+          Recognition: "полежаевская"
+          Bbox {
+            X: 534
+            Y: 1187
+            Width: 247
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 454
+      Y: 915
+      Width: 357
+      Height: 53
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.82783478
+          Recognition: "щукинская"
+          Bbox {
+            X: 535
+            Y: 919
+            Width: 191
+            Height: 36
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 456
+      Y: 574
+      Width: 377
+      Height: 50
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91464072
+          Recognition: "сходненская"
+          Bbox {
+            X: 532
+            Y: 585
+            Width: 220
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99974942
+    LineBox {
+      X: 742
+      Y: 1424
+      Width: 260
+      Height: 31
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.631148
+          Recognition: "вшереметьево"
+          Bbox {
+            X: 788
+            Y: 1426
+            Width: 164
+            Height: 19
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999642
+    LineBox {
+      X: 511
+      Y: 1640
+      Width: 496
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95200437
+          Recognition: "краснопресненская"
+          Bbox {
+            X: 588
+            Y: 1648
+            Width: 336
+            Height: 34
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 592
+      Y: 2584
+      Width: 393
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91695035
+          Recognition: "Университет"
+          Bbox {
+            X: 674
+            Y: 2594
+            Width: 227
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99977827
+    LineBox {
+      X: 597
+      Y: 2806
+      Width: 412
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9287408
+          Recognition: "юго-западная"
+          Bbox {
+            X: 676
+            Y: 2810
+            Width: 253
+            Height: 30
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999928
+    LineBox {
+      X: 822
+      Y: 3453
+      Width: 693
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.61884218
+          Recognition: "битцевский"
+          Bbox {
+            X: 908
+            Y: 3465
+            Width: 200
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.67015088
+          Recognition: "Лесопарковая"
+          Bbox {
+            X: 1162
+            Y: 3465
+            Width: 248
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99996567
+    LineBox {
+      X: 165
+      Y: 2891
+      Width: 244
+      Height: 30
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89103121
+          Recognition: "Тимирязевская"
+          Bbox {
+            X: 209
+            Y: 2896
+            Width: 153
+            Height: 14
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99792719
+    LineBox {
+      X: 170
+      Y: 2932
+      Width: 206
+      Height: 26
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.65566111
+          Recognition: "Люблинская"
+          Bbox {
+            X: 210
+            Y: 2938
+            Width: 123
+            Height: 15
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99960536
+    LineBox {
+      X: 1348
+      Y: 2106
+      Width: 553
+      Height: 46
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.97329748
+          Recognition: "Библиотека"
+          Bbox {
+            X: 1419
+            Y: 2119
+            Width: 200
+            Height: 23
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.7029472
+          Recognition: "им."
+          Bbox {
+            X: 1640
+            Y: 2118
+            Width: 51
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90612155
+          Recognition: "Ленина"
+          Bbox {
+            X: 1706
+            Y: 2118
+            Width: 124
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.739113
+          Recognition: "ка"
+          Bbox {
+            X: 1589
+            Y: 2120
+            Width: 29
+            Height: 32
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.5971002
+          Recognition: "им"
+          Bbox {
+            X: 1640
+            Y: 2120
+            Width: 22
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999523
+    LineBox {
+      X: 1502
+      Y: 2684
+      Width: 349
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90225577
+          Recognition: "нагатинская"
+          Bbox {
+            X: 1568
+            Y: 2693
+            Width: 215
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.999974
+    LineBox {
+      X: 1102
+      Y: 3333
+      Width: 407
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.90956062
+          Recognition: "Новоясеневская"
+          Bbox {
+            X: 1162
+            Y: 3341
+            Width: 282
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99996352
+    LineBox {
+      X: 1064
+      Y: 3107
+      Width: 279
+      Height: 40
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.97783816
+          Recognition: "Коньково"
+          Bbox {
+            X: 1126
+            Y: 3115
+            Width: 152
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 1052
+      Y: 2746
+      Width: 423
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.95815963
+          Recognition: "Академическая"
+          Bbox {
+            X: 1126
+            Y: 2756
+            Width: 270
+            Height: 22
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99994373
+    LineBox {
+      X: 1046
+      Y: 2672
+      Width: 511
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.81134993
+          Recognition: "ленинский"
+          Bbox {
+            X: 1123
+            Y: 2681
+            Width: 179
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.93119591
+          Recognition: "проспект"
+          Bbox {
+            X: 1325
+            Y: 2680
+            Width: 151
+            Height: 34
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99992347
+    LineBox {
+      X: 1040
+      Y: 2885
+      Width: 501
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92361772
+          Recognition: "Новые"
+          Bbox {
+            X: 1125
+            Y: 2898
+            Width: 103
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89341915
+          Recognition: "Черемушки"
+          Bbox {
+            X: 1249
+            Y: 2898
+            Width: 202
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99980235
+    LineBox {
+      X: 1244
+      Y: 3044
+      Width: 295
+      Height: 42
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Каховская"
+          Bbox {
+            X: 1307
+            Y: 3052
+            Width: 165
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 922
+      Y: 1519
+      Width: 1053
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.98844743
+          Recognition: "Баррикадная"
+          Bbox {
+            X: 1007
+            Y: 1531
+            Width: 228
+            Height: 24
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.85727483
+          Recognition: "Пушкинская"
+          Bbox {
+            X: 1319
+            Y: 1525
+            Width: 200
+            Height: 40
+          }
+        }
+      }
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91351545
+          Recognition: "Кузнецкий"
+          Bbox {
+            X: 1598
+            Y: 1531
+            Width: 181
+            Height: 33
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.92848814
+          Recognition: "Мост"
+          Bbox {
+            X: 1805
+            Y: 1531
+            Width: 78
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.991994
+    LineBox {
+      X: 1122
+      Y: 1277
+      Width: 475
+      Height: 58
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.99729538
+          Recognition: "Цветной"
+          Bbox {
+            X: 1208
+            Y: 1290
+            Width: 142
+            Height: 24
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "бульвар"
+          Bbox {
+            X: 1374
+            Y: 1290
+            Width: 133
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99983025
+    LineBox {
+      X: 1498
+      Y: 1702
+      Width: 281
+      Height: 44
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.59749591
+          Recognition: "охотныый"
+          Bbox {
+            X: 1565
+            Y: 1714
+            Width: 144
+            Height: 23
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 1803
+      Y: 1302
+      Width: 360
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.86584949
+          Recognition: "сретенский"
+          Bbox {
+            X: 1880
+            Y: 1311
+            Width: 199
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1766
+      Y: 1196
+      Width: 383
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.9609648
+          Recognition: "сухаревская"
+          Bbox {
+            X: 1849
+            Y: 1207
+            Width: 213
+            Height: 32
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999952
+    LineBox {
+      X: 1644
+      Y: 1814
+      Width: 383
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.91390222
+          Recognition: "театральная"
+          Bbox {
+            X: 1725
+            Y: 1824
+            Width: 214
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999976
+    LineBox {
+      X: 1942
+      Y: 2648
+      Width: 407
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.89831346
+          Recognition: "автозаводская"
+          Bbox {
+            X: 2016
+            Y: 2657
+            Width: 256
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 1
+    LineBox {
+      X: 1936
+      Y: 3072
+      Width: 457
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Кантемировская"
+          Bbox {
+            X: 2017
+            Y: 3082
+            Width: 291
+            Height: 25
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.9999969
+    LineBox {
+      X: 2258
+      Y: 2290
+      Width: 384
+      Height: 52
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.890855
+          Recognition: "крестьянская"
+          Bbox {
+            X: 2335
+            Y: 2299
+            Width: 225
+            Height: 33
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.999979
+    LineBox {
+      X: 1942
+      Y: 3328
+      Width: 429
+      Height: 49
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 0.8846128
+          Recognition: "домодедовская"
+          Bbox {
+            X: 2019
+            Y: 3337
+            Width: 274
+            Height: 24
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  Lines {
+    Confidence: 0.99999785
+    LineBox {
+      X: 1590
+      Y: 1446
+      Width: 400
+      Height: 54
+    }
+    ResultForLanguages {
+      RecognitionVariants {
+        Words {
+          OCRsystem: 5
+          Confidence: 1
+          Recognition: "Тургеневская"
+          Bbox {
+            X: 1672
+            Y: 1449
+            Width: 233
+            Height: 40
+          }
+        }
+        Words {
+          OCRsystem: 5
+          Confidence: 0.51228344
+          Recognition: "\\\\"
+          Bbox {
+            X: 1931
+            Y: 1446
+            Width: 37
+            Height: 37
+          }
+        }
+      }
+      LangIds: "ru"
+    }
+  }
+  BlockBox {
+    X: 0
+    Y: 0
+    Width: 0
+    Height: 0
+  }
+}
+OcrEnvironment {
+  LanguageInfo {
+    LanguageToRecognizeLo: 0
+    LanguageToRecognizeHi: 0
+    LanguageHint: 0
+    LanguageDetected: 0
+  }
+}
