@@ -11,3 +11,5 @@ http://nerevar.github.io/cvmetro/
 Используется шрифт [Директ-Мос](http://www.artlebedev.ru/everything/type/direct-mos/), с конвертированный для использования с помощью [Font Squirell](http://www.fontsquirrel.com/tools/webfont-generator) для использования на страничке.
 
 Схему создал, загоревшись [схемой Константина Варика](https://www.facebook.com/photo.php?fbid=10208139908046540&set=a.1322162425233.2046465.1566015894&type=3&theater), желанием попробовать распознавание текста на картинке Яндекса и сделать чего-нибудь полезное для сообщества
+
+Кстати, схема метро есть в векторе https://github.com/rfzu/cian-data-analisys/blob/master/cian.svg
