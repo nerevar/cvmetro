@@ -1,0 +1,52 @@
+/*
+    Direct Mos + Font Squirrell
+    http://www.artlebedev.ru/everything/type/direct-mos/
+    http://www.fontsquirrel.com
+*/
+@font-face
+{
+    font-family: 'als_directmosregular';
+    src: url('als-direct-mos-regular-webfont.eot');
+    src: url('als-direct-mos-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('als-direct-mos-regular-webfont.woff2') format('woff2'),
+         url('als-direct-mos-regular-webfont.woff') format('woff'),
+         url('als-direct-mos-regular-webfont.ttf') format('truetype'),
+         url('als-direct-mos-regular-webfont.svg#als_directmosregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body, .marks
+{
+    width: 100%;
+    height: 100%;
+}
+
+.metro
+{
+    width: 3158px;
+    height: 3857px;
+}
+
+.mark
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    border: 2px solid #fff;
+    background-color: #fff;
+    font-family: als_directmosregular;
+}
+
+.mark__value
+{
+    font-size: 30px;
+}
+
+.mark__name
+{
+    color: #6c7374;
+    font-size: 22px;
+}
