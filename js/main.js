@@ -191,24 +191,20 @@
     var marks = $('.marks'),
         createMark = _.template($('#mark-template').text());
 
-    $.getJSON('stations.json', function(stations) {
+    _.forEach(window.stations, function(station) {
 
-        _.forEach(stations, function(station) {
-
-            marks.append(
-                $(createMark({
-                    name: station.name,
-                    value: '$' + values[station.name] + ' 000'
-                }))
-                    .css({
-                        width: +station.w,
-                        height: +station.h,
-                        left: +station.x,
-                        top: +station.y
-                    })
-            );
-
-        });
+        marks.append(
+            $(createMark({
+                name: station.name,
+                value: '$' + values[station.name] + ' 000'
+            }))
+                .css({
+                    width: +station.w,
+                    height: +station.h,
+                    left: +station.x,
+                    top: +station.y
+                })
+        );
 
     });
 
