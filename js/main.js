@@ -208,7 +208,7 @@
         marks.append(
             $(createMark({
                 name: station.name,
-                value: '$' + values[station.name] + ' 000'
+                value: '' + Math.round(+(values[station.name] || 0) * 1000) + 'р.'
             }))
                 .css({
                     width: +station.w,
